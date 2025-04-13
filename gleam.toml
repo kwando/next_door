@@ -1,5 +1,7 @@
 name = "next_door"
 version = "1.0.0"
+description = "Utility for ARP, getting the IP for a MAC address"
+licences = ["MIT"]
 
 # Fill out these fields if you intend to generate HTML documentation or publish
 # your project to the Hex package manager.
