@@ -2,6 +2,7 @@
 //// cache and perform IP address lookups corresponding to given MAC addresses.
 ////
 //// As it stands, this utility functions exclusively on the Erlang target platform.
+//// Windows users are also out of luck with this package.
 
 import gleam/list
 import gleam/option.{Some}
